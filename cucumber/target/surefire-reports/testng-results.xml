@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.expedia.cucumber.AppTest" duration-ms="3" started-at="2019-09-16T22:22:22Z" finished-at="2019-09-16T22:22:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3" started-at="2019-09-16T22:22:22Z" finished-at="2019-09-16T22:22:22Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.expedia.cucumber.AppTest -->
+</testng-results>
